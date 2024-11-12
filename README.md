@@ -1,5 +1,6 @@
 # Clean route
 https://storymaps.arcgis.com/stories/cc504c0175ef47459452de30cec627ad
+
 Recommend environmentally friendly and sustainable tourism routes to travel in city of Medellin.
 The "Clean Routes" project aims to recommend environmentally friendly and sustainable tourism routes to travel in city of Medellin. Offering some tourist routes and itineraries, based on the different criteria such as the security, the mobility and themes.
 
